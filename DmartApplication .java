@@ -41,7 +41,7 @@ class DmartApplication {
         double totalcgst = item1cgst+item2cgst;
         double totalsgst = item1sgst+item2sgst;
         double totalAmt=item1Total+item2Total;
-    // Discount
+   
 	if(mode=="yes")
 	{
 		 discount= totalAmt*(20.0/100);
