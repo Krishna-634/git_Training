@@ -9,7 +9,7 @@ class DmartApplication {
         String billdt="10/05/2025(11:20pm)";
         String vou_no ="52s654";
         String casher="045/r54";
-        //items
+        
         int item1No =1;
         int item1Hsn=41522;
         String item1Name="rice Bag";
